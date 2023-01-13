@@ -3,7 +3,7 @@ import socket
 
 def server_program():
     # Get hostname
-    host = socket.gethostname()
+    host = socket.gethostname() # CHANGE THIS TO SERVER IP
     port = 5000
 
     server_socket = socket.socket() # Get Instance
