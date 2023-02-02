@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="[IP ADDRESS]" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="10" is_bold="0" foreground="" ts_creation="1675332684" ts_lastsave="1675332923">
+    <node name="Enumeration" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="21" is_bold="0" foreground="" ts_creation="1675332709" ts_lastsave="1675332817">
+      <node name="NMAP" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675332817" ts_lastsave="1675332820"/>
+      <node name="TCP" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675332820" ts_lastsave="1675332820"/>
+      <node name="UDP" unique_id="7" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675332851" ts_lastsave="1675332851"/>
+    </node>
+    <node name="Web Services" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="102" is_bold="0" foreground="" ts_creation="1675332746" ts_lastsave="1675332883">
+      <node name="Nikto" unique_id="8" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675332883" ts_lastsave="1675332902"/>
+      <node name="Dirbuster" unique_id="9" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675332902" ts_lastsave="1675332902"/>
+    </node>
+    <node name="Other Services" unique_id="10" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="44" is_bold="0" foreground="" ts_creation="1675332923" ts_lastsave="1675333008">
+      <node name="SMB" unique_id="11" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675332936" ts_lastsave="1675332950"/>
+      <node name="SNMP" unique_id="12" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675332950" ts_lastsave="1675332978"/>
+      <node name="DB" unique_id="13" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675332978" ts_lastsave="1675332988"/>
+      <node name="Other" unique_id="14" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675332988" ts_lastsave="1675332988"/>
+    </node>
+    <node name="Exploitation" unique_id="15" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="22" is_bold="0" foreground="" ts_creation="1675333008" ts_lastsave="1675333037"/>
+    <node name="Post Exploitation" unique_id="16" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="21" is_bold="0" foreground="" ts_creation="1675333037" ts_lastsave="1675333315">
+      <node name="Script Results" unique_id="17" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="44" is_bold="0" foreground="" ts_creation="1675333057" ts_lastsave="1675333076"/>
+      <node name="Host Information" unique_id="18" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675333076" ts_lastsave="1675333150"/>
+      <node name="File System" unique_id="19" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675333150" ts_lastsave="1675333168"/>
+      <node name="Running Processes" unique_id="20" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675333168" ts_lastsave="1675333221"/>
+      <node name="Installed Applications" unique_id="21" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675333221" ts_lastsave="1675333233"/>
+      <node name="Users &amp; Groups" unique_id="22" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675333233" ts_lastsave="1675333243"/>
+      <node name="Network" unique_id="23" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675333258" ts_lastsave="1675333268"/>
+      <node name="Scheduled Jobs" unique_id="24" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675333268" ts_lastsave="1675333268"/>
+    </node>
+    <node name="Privilege Escalation" unique_id="25" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="43" is_bold="0" foreground="" ts_creation="1675333315" ts_lastsave="1675333337"/>
+    <node name="Goodies" unique_id="26" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="114" is_bold="0" foreground="" ts_creation="1675333337" ts_lastsave="1675333392">
+      <node name="Hashes" unique_id="27" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675333348" ts_lastsave="1675333361"/>
+      <node name="Passwords" unique_id="28" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675333361" ts_lastsave="1675333378"/>
+      <node name="Proof/Flags/Other" unique_id="29" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="18" is_bold="0" foreground="" ts_creation="1675333378" ts_lastsave="1675333378"/>
+    </node>
+    <node name="Software Versions" unique_id="30" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="12" is_bold="0" foreground="" ts_creation="1675333392" ts_lastsave="1675333404"/>
+    <node name="Methodology" unique_id="31" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="13" is_bold="0" foreground="" ts_creation="1675333404" ts_lastsave="1675333404"/>
+  </node>
+</cherrytree>
